@@ -22,3 +22,4 @@ Cihaz konumu
 Bildirim izni
 
 📷 Ekran Görüntüleri
+<img width="1212" alt="Map Navigation Mobile App UI Kit Template (Community)@2x" src="https://github.com/user-attachments/assets/f740e926-9568-4748-8516-3c7a5233ea13" />

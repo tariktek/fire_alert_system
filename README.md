@@ -15,4 +15,10 @@ DikkatYangın, vatandaşların yakındaki yangınlardan **anlık olarak haberdar
 - **Geolocator** – Cihaz konumunu almak için
 - **Provider / Bloc** – State management (seçim serbest)
 
+🛡️ İzinler
+Uygulama düzgün çalışması için aşağıdaki izinleri ister:
+Cihaz konumu
+İnternet bağlantısı
+Bildirim izni
 
+📷 Ekran Görüntüleri

@@ -1,16 +1,18 @@
-# fire_alert_system
+# 🔥 DikkatYangın – Acil Yangın Uyarı Sistemi (Fire Alert System)
 
-A new Flutter project.
+DikkatYangın, vatandaşların yakındaki yangınlardan **anlık olarak haberdar edilmesini** sağlayan Flutter tabanlı bir mobil uygulamadır. Bu sistemde **itfaiyeciler (admin)** yangın konumlarını (enlem/boylam) bildirir, sistem de **1 km yarıçapındaki** tüm kullanıcıları **push notification** ile uyarır.
 
-## Getting Started
+## 🎯 Özellikler
+- 👨‍🚒 **Admin Paneli**: İtfaiyeciler yangın konumlarını elle girip raporlar.
+- 📍 **Konum Tabanlı Uyarı**: Kullanıcılar, yangınlara 1 km yakın olduklarında uyarı alır.
+- 🛰️ **Gerçek Zamanlı Harita**: Kullanıcının mevcut konumunu ve tehlike bölgelerini gösterir.
+- 🔔 **Push Notification**: Firebase Cloud Messaging (FCM) ile anlık bildirim desteği.
 
-This project is a starting point for a Flutter application.
+## 🧰 Kullanılan Teknolojiler
+- **Flutter** – Mobil uygulama geliştirme
+- **Firebase** – Gerçek zamanlı veritabanı, authentication ve bildirim servisi
+- **Google Maps API** – Harita ve konum işlemleri
+- **Geolocator** – Cihaz konumunu almak için
+- **Provider / Bloc** – State management (seçim serbest)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
